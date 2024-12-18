@@ -1,7 +1,10 @@
-#fungsi dengan nilai balik
-def luas_persegi(sisi):
-    luas = int(sisi * sisi)
-    return luas
-# Memanggil fungsi
-a = luas_persegi(6)
-print ('Luas Persegi:',a)
+a = int(input("Masukkan nilai a : "))
+try:
+    b = int(input("Masukkan nilai b : "))
+    if b == 0:
+        raise ZeroDivisionError
+except ZeroDivisionError as e:
+    print ("Kesalahan : nilai b tidak boleh 0")
+else:
+    c = a / b
+    print ("Hasil : ", c)

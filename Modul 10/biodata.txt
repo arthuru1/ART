@@ -1,0 +1,8 @@
+Nama: Fatchur 
+Usia: 20 tahun
+Alamat: Surakarta
+Pekerjaan: Mahasiswa
+Hobi: Membaca dan bermain game
+Prodi : Informatika
+Universitas : ITS PKU
+Mata Kuliah : Algopro\

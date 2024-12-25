@@ -1,0 +1,7 @@
+f = open ("file.txt", "w")
+f = open ("file.txt", "r+")
+f = open ("file.txt", "a")
+f.write ("satu\n")
+f.write ("dua\n")
+f.write ("tiga\n")
+f.close()

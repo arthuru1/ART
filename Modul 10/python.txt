@@ -1,0 +1,3 @@
+Praktikum operasi file menggunakan python.
+Dalam praktikum ini akan disimulasikan beberapa metode.
+Yaitu cara membuka, membaca, menulis dan menutup file.
